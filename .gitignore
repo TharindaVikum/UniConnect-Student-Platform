@@ -1,0 +1,23 @@
+.vs/
+bin/
+obj/
+vendor/
+node_modules/
+
+# Local environment files
+.env
+*.env
+
+# Database dump / backup files
+*backup*.sql
+*dump*.sql
+uniconnect*.sql
+*.sql.gz
+*.sql.bak
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+*.tmp
